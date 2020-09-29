@@ -2,7 +2,7 @@
 
 BodyPosi is a mobile app that calculates BMI and gives body positive affirmations
 
-Demo: https://www.youtube.com/watch?v=k3z_knTxln4&t=43s
+Demo: https://youtu.be/C0Isf77aOLk
 
 ### Project Status
 
